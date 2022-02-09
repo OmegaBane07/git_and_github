@@ -1,1 +1,1 @@
-moves: flamethrower, thunderbolt
+moves: flamethrower, thunderbolt, roundhouse
